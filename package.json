@@ -1,0 +1,15 @@
+{
+  "name": "neural-net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "left-pad": "^1.1.1",
+    "vectorious": "^4.3.2"
+  }
+}
